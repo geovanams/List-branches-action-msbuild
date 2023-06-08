@@ -8,6 +8,6 @@ jobs:
     name: Job para listar Branches de repositório GitHub
     steps:
     - name: List Repos
-      uses: List-branches-action-msbuild@v1
+      uses: geovanams/List-branches-action-msbuild@v1
       with:
         owner: geovanams
