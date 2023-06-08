@@ -1,1 +1,1 @@
-# List-branches-action-msbuild
+# List-branches-action
